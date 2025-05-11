@@ -6,6 +6,7 @@
 - 💬 Ask me about **Flutter, Firebase, c/c++,Java,Javascript,Dart,Python**
 
 - 📫 How to reach me **Harshit8377@gmail.com**
+-  or <a href="https://harshitkhandwalia.netlify.app" target="blank">Visit my portfolio </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
